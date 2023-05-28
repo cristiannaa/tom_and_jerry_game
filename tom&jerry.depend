@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1677529179 source:c:\users\admin\desktop\de ale mele\tom&jerry\main.cpp
+	<iostream>
+	<winbgim.h>
+	<windows.h>
+	<fstream>
+	<time.h>
+
+1677533497 source:c:\users\admin\desktop\tom&jerry\main.cpp
+	<iostream>
+	<winbgim.h>
+	<windows.h>
+	<fstream>
+	<time.h>
+
